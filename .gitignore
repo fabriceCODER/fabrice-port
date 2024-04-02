@@ -1,0 +1,8 @@
+# Ignore compiled files
+
+
+# Ignore build directories
+
+
+# Ignore IDE files
+.vscode/
